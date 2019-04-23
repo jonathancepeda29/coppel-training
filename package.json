@@ -1,0 +1,29 @@
+{
+  "name": "coppel",
+  "version": "0.0.1",
+  "description": "Este es un proyecto de prueba",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Jonathan Cepeda",
+  "license": "MIT",
+  "dependencies": {
+    "vue": "^2.6.10"
+  },
+  "devDependencies": {
+    "babel": "^6.23.0",
+    "jest": "^24.7.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonathancepeda29/coppel-training.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jonathancepeda29/coppel-training/issues"
+  },
+  "homepage": "https://github.com/jonathancepeda29/coppel-training#readme"
+}
